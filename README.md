@@ -167,7 +167,7 @@ ASTRA es un E-commerce que comercializa productos de tecnologia y bioseguridad. 
             <li><a href="https://github.com/jorelmaro" rel="nofollow">Jorge Malo</a></li>
             <li><a href="https://github.com/nvlozano" rel="nofollow">Vanessa Lozano</a></li>
             <li><a href="https://github.com/martinc1991" rel="nofollow">Martin Catala</a></li>
-            <li><a href="https://github.com/Cristovk" rel="nofollow">Cristobal Chile</a></li>
+            <li><a href="https://github.com/Cristovk" rel="nofollow">Cristobal Cofré</a></li>
             <li><a href="https://github.com/miguehernaandez" rel="nofollow">Miguel Hernandez </a></li>
         </ul>
 
